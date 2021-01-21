@@ -1,0 +1,9 @@
+private/
+*.class
+*.zip
+*.rar
+*.rar5
+*.7z
+*.ace
+*.log
+public.lop
